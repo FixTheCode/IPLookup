@@ -5,7 +5,7 @@ Requires: https://github.com/maxmind/GeoIP2-python
 
 Install: python -m pip install geoip2
 
-# Maxmind databases
+# Databases
 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
 
 https://www.maxmind.com/en/geolite2/signup
