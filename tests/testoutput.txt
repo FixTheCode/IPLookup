@@ -1,0 +1,8 @@
+ZA,South Africa,Johannesburg,-26.3811,27.8376,197.234.240.0
+US,United States,None,37.751,-97.822,103.21.244.0
+US,United States,Los Angeles,34.0544,-118.2441,173.245.48.0
+SK,Slovakia,None,48.6667,19.5,37.9.168.0
+CR,Costa Rica,None,10.0029,-84.0,131.0.72.0
+GB,United Kingdom,London,51.5095,-0.0955,37.9.56.0
+BY,Belarus,None,53.0011,28.0065,178.154.0.0
+RU,Russia,None,55.7386,37.6068,178.154.128.0
